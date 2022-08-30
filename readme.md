@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://inquisitive-valkyrie-ac0d02.netlify.app/)_
+>### _[**Live Link**](https://magenta-tapioca-6fa471.netlify.app/)_
 <br>
 
 ## **Preview**🔎
