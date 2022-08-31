@@ -16,7 +16,20 @@
 ## **Preview**🔎
 <br>
 
-![screenshot](./screenshot.png)
+## Mobile View: 
+![mobile](./screenshot-mobile.jpg)
+
+<br>
+
+
+## Tab view
+![tab](./screenshot-tab.jpg)
+
+<br>
+
+## Desktop view:
+![desktop](./scrrenshot-desktop.jpg)
+
 <br>
 
 
